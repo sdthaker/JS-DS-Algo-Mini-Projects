@@ -7,4 +7,4 @@
 The file contains all the work done for a freeCodeCamp.org's certification of Javascript Algorithms & Data Structures
 
 ## Certification:
-<img src="js-algo-ds-cert.jpg" width=750>
+<img src="js-algo-ds-cert.jpg" width=500>
